@@ -51,6 +51,9 @@ Hour
 
 ## Results and Findings
 
+![image](https://github.com/user-attachments/assets/15dc51f1-9b45-4fdc-8988-cbfa4d4dcda7)
+
+
 #### Busiest Days of the week and Busiest Times of the day
 
 ![image](https://github.com/user-attachments/assets/026c3a9c-9489-4085-a256-6dd0b7b992ef)
